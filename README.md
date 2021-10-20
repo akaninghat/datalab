@@ -133,9 +133,9 @@ you should get no errors and just a help message.
   
 ### Task 2
   
-* Prepare your python environment. To solve the following exercises we will need preferebly python3 installed and at least a plotting library (such as matplotlib), but probably numpy, pandas etc will be useful as well. If you are using anaconda make a new python environement for the datalab. 
+* Prepare your python environment. To solve the following exercises we will need preferebly [python3](https://www.python.org) installed and at least a plotting library (such as [matplotlib](https://matplotlib.org), but probably numpy, pandas etc will be useful as well. If you are using [anaconda](https://www.anaconda.com/products/individual) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) make a new python environment for the datalab. 
   
-* Have an IDE prepared, wheather it is Jupyter, PyCharma, Notebook++. Try to write a script that prints "Hello World!" and run it. 
+* Have an IDE prepared, wheather it is [Jupyter](https://jupyter.org), [PyCharm](https://www.jetbrains.com/pycharm/), [Notebook++](https://notepad-plus-plus.org/downloads/), etc - the most important thing is you can easily work with it. Try to write a script that prints "Hello World!" and run it. 
   
  ## Lab 2 
   
