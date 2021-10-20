@@ -78,7 +78,7 @@ This will automatically create a new folder called `datalab` inside the folder w
 
 #### Rebase from upstream
 
-To get new changes that are pushed to __this__ main repository the simplest way is to add an upstream and rebase your code. Before you rebase you should commit all your local changes that you want to keep. Try it yourself using this [link]
+To get new changes that are pushed to __this__ main repository the simplest way is to add an upstream and rebase your code. Before you rebase you should commit all your local changes that you want to keep. Try it yourself using this [link](https://medium.com/@topspinj/how-to-git-rebase-into-a-forked-repo-c9f05e821c8a)
 
 <details>
   <summary>Solution here</summary>
@@ -105,7 +105,8 @@ To get new changes that are pushed to __this__ main repository the simplest way 
   $ git add . 
   $ git commit -m "Saving my changes."
   $ git log
-  $ git rebase upstream/master
+  $ git fetch upstream
+  $ git rebase upstream/main
   $ git log
   ```
 </details>
