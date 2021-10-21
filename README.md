@@ -140,4 +140,4 @@ you should get no errors and just a help message.
   
  ## Lab 2 
   
-  
+  Open Exercise_1.pdf and read instructions.
