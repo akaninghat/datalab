@@ -22,3 +22,9 @@
 * [Paper: Observation of Gravitational Waves from a Binary Black Hole Merger](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102)
 * [Python Beginners Guide](https://www.python.org/about/gettingstarted/)
 * [Neyman-Pearson Criterion](https://cnx.org/contents/aOvnYzjq@1.9:7yMVBb6e@2/The-Neyman-Pearson-Criterion)
+
+
+### Lab 2
+
+* [Making plots in jupyter](https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d)
+* [Template banks in gravitational wave searches](https://dcc.ligo.org/public/0007/P070111/000/P070111-00.pdf)
