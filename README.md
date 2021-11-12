@@ -138,6 +138,6 @@ you should get no errors and just a help message.
   
 * Have an IDE prepared, wheather it is [Jupyter](https://jupyter.org), [PyCharm](https://www.jetbrains.com/pycharm/), [Notebook++](https://notepad-plus-plus.org/downloads/), etc - the most important thing is you can easily work with it. Try to write a script that prints "Hello World!" and run it. 
   
- ## Lab 2 
+ ## Lab 2,3,4
   
-  Open Exercise_1.pdf and read instructions.
+  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb)
