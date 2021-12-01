@@ -1,0 +1,8 @@
+#cmd_str = f"echo '{data}' >> {data_dir}/values.csv"
+#print (cmd_str)
+#cmd = cmd_str.split(' ')
+#process = subprocess.Popen(cmd,stdout=subprocess.PIPE)
+#out, err = process.communicate()
+#if err:
+    #print('The process raised an error:', err.decode())
+    
