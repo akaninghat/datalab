@@ -153,4 +153,4 @@ Resources:
 * [Ian Foster Book: Designing and building parallel programms](https://www.mcs.anl.gov/~itf/dbpp/text/book.html)
 * [Ian Foster Course](https://edoras.sdsu.edu/~mthomas/docs/foster/Foster_Designing_and_Building_Parallel_Programs.pdf)
 * [Online Course](https://open.hpi.de/courses/parprog2014)
-    
+* [Python multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=399s)
