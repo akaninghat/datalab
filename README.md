@@ -150,4 +150,6 @@ Resources:
 * [Introduction to MPI](https://princetonuniversity.github.io/PUbootcamp/sessions/parallel-programming/Intro_PP_bootcamp_2018.pdf)
 * [Programming with CUDA: parallel reduction in GPUs](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
 * [Patterns for Parallel Programming](https://www.researchgate.net/publication/234826291_Patterns_for_Parallel_Programming)
- 
+* [Ian Foster Book](https://www.mcs.anl.gov/~itf/dbpp/text/book.html)
+* [Ian Foster Course](https://edoras.sdsu.edu/~mthomas/docs/foster/Foster_Designing_and_Building_Parallel_Programs.pdf)
+    
