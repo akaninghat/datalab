@@ -154,3 +154,4 @@ Resources:
 * [Ian Foster Course](https://edoras.sdsu.edu/~mthomas/docs/foster/Foster_Designing_and_Building_Parallel_Programs.pdf)
 * [Online Course](https://open.hpi.de/courses/parprog2014)
 * [Python multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=399s)
+* [pymp library](https://github.com/classner/pymp)
