@@ -141,13 +141,13 @@ you should get no errors and just a help message.
   
 ## Exercises
   
-  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb). The same for exercise 3 and 4. Exercise 5 is the final assignment. 
+  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb). The same for [Exercise 3](https://github.com/alebot/datalab/blob/main/Exercise_3.pdf) and [Exercise 4](https://github.com/alebot/datalab/blob/main/Exercise_4.pdf) with [solutions](https://github.com/alebot/datalab/blob/main/Ex3_solutions.ipynb). Exercise 5 is the final assignment. 
     
 ## Parallel Programming 
     
 Resources:
 * [Introduction to HPC](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial##Whatis) (High Performance Computing)
-* [Introduction to MPI](https://princetonuniversity.github.io/PUbootcamp/sessions/parallel-programming/Intro_PP_bootcamp_2018.pdf)
+* [Introduction to MPI and OpenMP](https://princetonuniversity.github.io/PUbootcamp/sessions/parallel-programming/Intro_PP_bootcamp_2018.pdf)
 * [Programming with CUDA: parallel reduction in GPUs](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
 * [Patterns for Parallel Programming](https://www.researchgate.net/publication/234826291_Patterns_for_Parallel_Programming)
 * [Ian Foster Book: Designing and building parallel programms](https://www.mcs.anl.gov/~itf/dbpp/text/book.html)
