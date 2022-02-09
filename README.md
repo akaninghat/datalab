@@ -6,11 +6,12 @@ The purpose of this course is to provide an insight into the field of Data Analy
 
 [Resources](resources.md)
 
-1. [Lab 1 - 13.10.2021](#lab-1)
+1. [Lab 1 - 13.10.2021 - Setting up](#lab-1)
     1. [Prerequisites](#prerequisites)
     2. [Task 1](#task-1)
     3. [Task 2](#task-2)
-3. [Lab 2](#lab-2)
+3. [Exercises](#exercises)
+4. [Parallel Programming](#parallel-programming)
 
 
 ## Lab 1
@@ -138,6 +139,15 @@ you should get no errors and just a help message.
   
 * Have an IDE prepared, wheather it is [Jupyter](https://jupyter.org), [PyCharm](https://www.jetbrains.com/pycharm/), [Notebook++](https://notepad-plus-plus.org/downloads/), etc - the most important thing is you can easily work with it. Try to write a script that prints "Hello World!" and run it. 
   
- ## Lab 2,3,4
+## Exercises
   
-  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb)
+  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb). The same for exercise 3 and 4. Exercise 5 is the final assignment. 
+    
+## Parallel Programming 
+    
+Resources:
+* [Introduction to HPC](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial##Whatis) (High Performance Computing)
+* [Introduction to MPI](https://princetonuniversity.github.io/PUbootcamp/sessions/parallel-programming/Intro_PP_bootcamp_2018.pdf)
+* [Programming with CUDA: parallel reduction in GPUs](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
+* [Patterns for Parallel Programming](https://www.researchgate.net/publication/234826291_Patterns_for_Parallel_Programming)
+ 
