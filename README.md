@@ -141,7 +141,7 @@ you should get no errors and just a help message.
   
 ## Exercises
   
-  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb). The same for [Exercise 3](https://github.com/alebot/datalab/blob/main/Exercise_3.pdf) and [Exercise 4](https://github.com/alebot/datalab/blob/main/Exercise_4.pdf) with [solutions](https://github.com/alebot/datalab/blob/main/Ex3_solutions.ipynb). Exercise 5 is the final assignment. 
+  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb). The same for [Exercise 3](https://github.com/alebot/datalab/blob/main/Exercise_3.pdf) and [Exercise 4](https://github.com/alebot/datalab/blob/main/Exercise_4.pdf) with [solutions](https://github.com/alebot/datalab/blob/main/Ex3_solutions.ipynb). The final assignment sheet and data are in the [assignment folder](https://github.com/alebot/datalab/tree/main/assignment) in this repo. 
     
 ## Parallel Programming 
     
