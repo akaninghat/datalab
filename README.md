@@ -156,3 +156,4 @@ Resources:
 * [Python multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=399s)
 * [pymp library](https://github.com/classner/pymp)
 * [Condor](http://www.umiacs.umd.edu/labs/parallel/condorintro.htm)
+* [Coding Game: Have fun with MPI](https://www.codingame.com/playgrounds/47058/have-fun-with-mpi-in-c/lets-start-to-have-fun-with-mpi)
