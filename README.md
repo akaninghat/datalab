@@ -158,3 +158,4 @@ Resources:
 * [Condor](http://www.umiacs.umd.edu/labs/parallel/condorintro.htm)
 * [Coding Game: Have fun with MPI](https://www.codingame.com/playgrounds/47058/have-fun-with-mpi-in-c/lets-start-to-have-fun-with-mpi)
 * [Video: Introduction to parallel programming with MPI](https://www.youtube.com/watch?v=36nCgG40DJo)
+* [mpi4py](https://mpi4py.readthedocs.io/en/stable/intro.html)
