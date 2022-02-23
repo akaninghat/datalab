@@ -155,3 +155,4 @@ Resources:
 * [Online Course](https://open.hpi.de/courses/parprog2014)
 * [Python multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=399s)
 * [pymp library](https://github.com/classner/pymp)
+* [Condor](http://www.umiacs.umd.edu/labs/parallel/condorintro.htm)
