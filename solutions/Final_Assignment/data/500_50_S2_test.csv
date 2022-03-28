@@ -1,0 +1,134 @@
+data_test_00.csv
+True value of frequency and phase:  10 0
+Minimum Value at true f:  624.826
+
+Best value of frequency and phase:  10.0 0.0
+Minimum Value at best f:  624.826
+Mismatch:  -622.826
+
+
+data_test_01.csv
+True value of frequency and phase:  80.7143 0.448799
+Minimum Value at true f:  625.067
+
+Best value of frequency and phase:  464.329 5.51382
+Minimum Value at best f:  625.926
+Mismatch:  -623.0656257473199
+
+
+data_test_02.csv
+True value of frequency and phase:  151.429 0.897598
+Minimum Value at true f:  623.601
+
+Best value of frequency and phase:  835.331 4.74445
+Minimum Value at best f:  624.458
+Mismatch:  -621.5996257238202
+
+
+data_test_03.csv
+True value of frequency and phase:  222.143 1.3464
+Minimum Value at true f:  625.365
+
+Best value of frequency and phase:  113.166 2.56457
+Minimum Value at best f:  626.195
+Mismatch:  -623.3636727750993
+
+
+data_test_04.csv
+True value of frequency and phase:  292.857 1.7952
+Minimum Value at true f:  625.504
+
+Best value of frequency and phase:  472.265 1.92342
+Minimum Value at best f:  626.358
+Mismatch:  -623.5026347009772
+
+
+data_test_05.csv
+True value of frequency and phase:  363.571 2.24399
+Minimum Value at true f:  626.898
+
+Best value of frequency and phase:  400.842 5.51382
+Minimum Value at best f:  627.738
+Mismatch:  -624.8966600691022
+
+
+data_test_06.csv
+True value of frequency and phase:  434.286 2.69279
+Minimum Value at true f:  624.995
+
+Best value of frequency and phase:  835.331 5.8985
+Minimum Value at best f:  625.803
+Mismatch:  -622.9937071896575
+
+
+data_test_07.csv
+True value of frequency and phase:  505 3.14159
+Minimum Value at true f:  624.144
+
+Best value of frequency and phase:  166.733 5.64204
+Minimum Value at best f:  625.019
+Mismatch:  -622.1425980799303
+
+
+data_test_08.csv
+True value of frequency and phase:  575.714 3.59039
+Minimum Value at true f:  624.474
+
+Best value of frequency and phase:  222.285 1.28228
+Minimum Value at best f:  625.315
+Mismatch:  -622.4726532665892
+
+
+data_test_09.csv
+True value of frequency and phase:  646.429 4.03919
+Minimum Value at true f:  624.915
+
+Best value of frequency and phase:  867.074 4.1033
+Minimum Value at best f:  625.853
+Mismatch:  -622.9134989958634
+
+
+data_test_010.csv
+True value of frequency and phase:  717.143 4.48799
+Minimum Value at true f:  626.304
+
+Best value of frequency and phase:  109.198 4.61622
+Minimum Value at best f:  627.166
+Mismatch:  -624.3026236715716
+
+
+data_test_011.csv
+True value of frequency and phase:  787.857 4.93679
+Minimum Value at true f:  625.23
+
+Best value of frequency and phase:  250.06 1.28228
+Minimum Value at best f:  626.052
+Mismatch:  -623.2286852838156
+
+
+data_test_012.csv
+True value of frequency and phase:  858.571 5.38559
+Minimum Value at true f:  624.329
+
+Best value of frequency and phase:  837.315 2.82102
+Minimum Value at best f:  625.197
+Mismatch:  -622.3276097073818
+
+
+data_test_013.csv
+True value of frequency and phase:  929.286 5.83439
+Minimum Value at true f:  625.454
+
+Best value of frequency and phase:  53.6473 2.17988
+Minimum Value at best f:  626.334
+Mismatch:  -623.4525930220287
+
+
+data_test_014.csv
+True value of frequency and phase:  1000 6.28319
+Minimum Value at true f:  623.469
+
+Best value of frequency and phase:  1000.0 0.0
+Minimum Value at best f:  623.469
+Mismatch:  -621.469
+

@@ -1,0 +1,809 @@
+True value of frequency and phase:  0.5 0
+Maximum Value at true f:  0.500313
+
+Best value of frequency and phase:  0.5 0.0
+Maximum Value at best f:  0.500313
+Mismatch:  0.0
+
+
+True value of frequency and phase:  1.5 0.0628319
+Maximum Value at true f:  0.499663
+
+Best value of frequency and phase:  1.4009 0.380799
+Maximum Value at best f:  0.508321
+Mismatch:  -0.017327678855548534
+
+
+True value of frequency and phase:  2.5 0.125664
+Maximum Value at true f:  0.499745
+
+Best value of frequency and phase:  2.4019 0.444266
+Maximum Value at best f:  0.501413
+Mismatch:  -0.003337702228136452
+
+
+True value of frequency and phase:  3.5 0.188496
+Maximum Value at true f:  0.500727
+
+Best value of frequency and phase:  3.503 0.1904
+Maximum Value at best f:  0.500496
+Mismatch:  0.00046132922730346415
+
+
+True value of frequency and phase:  4.5 0.251327
+Maximum Value at true f:  0.499392
+
+Best value of frequency and phase:  4.504 0.253866
+Maximum Value at best f:  0.499158
+Mismatch:  0.00046856978085352274
+
+
+True value of frequency and phase:  5.5 0.314159
+Maximum Value at true f:  0.500107
+
+Best value of frequency and phase:  5.505 0.317333
+Maximum Value at best f:  0.499825
+Mismatch:  0.0005638793298232692
+
+
+True value of frequency and phase:  6.5 0.376991
+Maximum Value at true f:  0.500418
+
+Best value of frequency and phase:  6.50601 0.380799
+Maximum Value at best f:  0.500088
+Mismatch:  0.0006594487008861893
+
+
+True value of frequency and phase:  7.5 0.439823
+Maximum Value at true f:  0.498703
+
+Best value of frequency and phase:  7.50701 0.444266
+Maximum Value at best f:  0.498366
+Mismatch:  0.0006757529030305687
+
+
+True value of frequency and phase:  8.5 0.502655
+Maximum Value at true f:  0.500161
+
+Best value of frequency and phase:  8.50801 0.507732
+Maximum Value at best f:  0.499785
+Mismatch:  0.0007517579339452185
+
+
+True value of frequency and phase:  9.5 0.565487
+Maximum Value at true f:  0.50067
+
+Best value of frequency and phase:  9.50901 0.507732
+Maximum Value at best f:  0.500282
+Mismatch:  0.000774961551520903
+
+
+True value of frequency and phase:  10.5 0.628319
+Maximum Value at true f:  0.500296
+
+Best value of frequency and phase:  10.51 0.571199
+Maximum Value at best f:  0.499958
+Mismatch:  0.0006756000447734056
+
+
+True value of frequency and phase:  11.5 0.69115
+Maximum Value at true f:  0.50059
+
+Best value of frequency and phase:  11.511 0.634665
+Maximum Value at best f:  0.500331
+Mismatch:  0.0005173894804131329
+
+
+True value of frequency and phase:  12.5 0.753982
+Maximum Value at true f:  0.501034
+
+Best value of frequency and phase:  12.512 0.698132
+Maximum Value at best f:  0.500816
+Mismatch:  0.0004351002127599424
+
+
+True value of frequency and phase:  13.5 0.816814
+Maximum Value at true f:  0.49877
+
+Best value of frequency and phase:  13.513 0.761598
+Maximum Value at best f:  0.498607
+Mismatch:  0.0003268039376866927
+
+
+True value of frequency and phase:  14.5 0.879646
+Maximum Value at true f:  0.499796
+
+Best value of frequency and phase:  14.514 0.825065
+Maximum Value at best f:  0.499662
+Mismatch:  0.00026810938863064404
+
+
+True value of frequency and phase:  15.5 0.942478
+Maximum Value at true f:  0.498881
+
+Best value of frequency and phase:  15.515 0.888531
+Maximum Value at best f:  0.49876
+Mismatch:  0.0002425428108107086
+
+
+True value of frequency and phase:  16.5 1.00531
+Maximum Value at true f:  0.498826
+
+Best value of frequency and phase:  16.516 0.951998
+Maximum Value at best f:  0.498723
+Mismatch:  0.00020648482637219967
+
+
+True value of frequency and phase:  17.5 1.06814
+Maximum Value at true f:  0.500133
+
+Best value of frequency and phase:  17.517 1.01546
+Maximum Value at best f:  0.499995
+Mismatch:  0.00027592660352349085
+
+
+True value of frequency and phase:  18.5 1.13097
+Maximum Value at true f:  0.500197
+
+Best value of frequency and phase:  18.518 1.07893
+Maximum Value at best f:  0.500064
+Mismatch:  0.00026589523727660325
+
+
+True value of frequency and phase:  19.5 1.19381
+Maximum Value at true f:  0.500114
+
+Best value of frequency and phase:  19.519 1.1424
+Maximum Value at best f:  0.499991
+Mismatch:  0.00024594392478505256
+
+
+True value of frequency and phase:  20.5 1.25664
+Maximum Value at true f:  0.500389
+
+Best value of frequency and phase:  20.52 1.20586
+Maximum Value at best f:  0.500206
+Mismatch:  0.00036571547336161636
+
+
+True value of frequency and phase:  21.5 1.31947
+Maximum Value at true f:  0.499691
+
+Best value of frequency and phase:  21.521 1.26933
+Maximum Value at best f:  0.499475
+Mismatch:  0.0004322671410932344
+
+
+True value of frequency and phase:  22.5 1.3823
+Maximum Value at true f:  0.500787
+
+Best value of frequency and phase:  22.522 1.3328
+Maximum Value at best f:  0.500509
+Mismatch:  0.000555126231311931
+
+
+True value of frequency and phase:  23.5 1.44513
+Maximum Value at true f:  0.500483
+
+Best value of frequency and phase:  23.523 1.39626
+Maximum Value at best f:  0.500161
+Mismatch:  0.0006433784963726374
+
+
+True value of frequency and phase:  24.5 1.50796
+Maximum Value at true f:  0.499521
+
+Best value of frequency and phase:  24.524 1.45973
+Maximum Value at best f:  0.499153
+Mismatch:  0.0007367057641219921
+
+
+True value of frequency and phase:  25.5 1.5708
+Maximum Value at true f:  0.499912
+
+Best value of frequency and phase:  25.525 1.5232
+Maximum Value at best f:  0.499392
+Mismatch:  0.0010401830722207572
+
+
+True value of frequency and phase:  26.5 1.63363
+Maximum Value at true f:  0.499943
+
+Best value of frequency and phase:  26.526 1.5232
+Maximum Value at best f:  0.499398
+Mismatch:  0.0010901242741673256
+
+
+True value of frequency and phase:  27.5 1.69646
+Maximum Value at true f:  0.500065
+
+Best value of frequency and phase:  27.527 1.58666
+Maximum Value at best f:  0.499592
+Mismatch:  0.0009458770359853652
+
+
+True value of frequency and phase:  28.5 1.75929
+Maximum Value at true f:  0.498735
+
+Best value of frequency and phase:  28.528 1.65013
+Maximum Value at best f:  0.498187
+Mismatch:  0.0010987799131803033
+
+
+True value of frequency and phase:  29.5 1.82212
+Maximum Value at true f:  0.499599
+
+Best value of frequency and phase:  29.529 1.7136
+Maximum Value at best f:  0.499077
+Mismatch:  0.001044837960043954
+
+
+True value of frequency and phase:  30.5 1.88496
+Maximum Value at true f:  0.500377
+
+Best value of frequency and phase:  30.53 1.77706
+Maximum Value at best f:  0.499752
+Mismatch:  0.001249058210109566
+
+
+True value of frequency and phase:  31.5 1.94779
+Maximum Value at true f:  0.500399
+
+Best value of frequency and phase:  31.531 1.84053
+Maximum Value at best f:  0.499742
+Mismatch:  0.0013129522640933367
+
+
+True value of frequency and phase:  32.5 2.01062
+Maximum Value at true f:  0.50071
+
+Best value of frequency and phase:  32.532 1.904
+Maximum Value at best f:  0.500088
+Mismatch:  0.001242236024844745
+
+
+True value of frequency and phase:  33.5 2.07345
+Maximum Value at true f:  0.500309
+
+Best value of frequency and phase:  33.533 1.96746
+Maximum Value at best f:  0.49952
+Mismatch:  0.001577025398303844
+
+
+True value of frequency and phase:  34.5 2.13628
+Maximum Value at true f:  0.500623
+
+Best value of frequency and phase:  34.534 2.03093
+Maximum Value at best f:  0.499799
+Mismatch:  0.001645949147362491
+
+
+True value of frequency and phase:  35.5 2.19911
+Maximum Value at true f:  0.50002
+
+Best value of frequency and phase:  35.535 2.0944
+Maximum Value at best f:  0.499142
+Mismatch:  0.0017559297628095827
+
+
+True value of frequency and phase:  36.5 2.26195
+Maximum Value at true f:  0.499816
+
+Best value of frequency and phase:  36.536 2.15786
+Maximum Value at best f:  0.498779
+Mismatch:  0.002074763512972755
+
+
+True value of frequency and phase:  37.5 2.32478
+Maximum Value at true f:  0.499913
+
+Best value of frequency and phase:  37.537 2.22133
+Maximum Value at best f:  0.498693
+Mismatch:  0.0024404246338862734
+
+
+True value of frequency and phase:  38.5 2.38761
+Maximum Value at true f:  0.500478
+
+Best value of frequency and phase:  38.538 2.28479
+Maximum Value at best f:  0.499213
+Mismatch:  0.002527583630049568
+
+
+True value of frequency and phase:  39.5 2.45044
+Maximum Value at true f:  0.501244
+
+Best value of frequency and phase:  39.539 2.34826
+Maximum Value at best f:  0.499857
+Mismatch:  0.0027671154168429357
+
+
+True value of frequency and phase:  40.5 2.51327
+Maximum Value at true f:  0.500397
+
+Best value of frequency and phase:  40.54 2.41173
+Maximum Value at best f:  0.498825
+Mismatch:  0.0031415056445182055
+
+
+True value of frequency and phase:  41.5 2.57611
+Maximum Value at true f:  0.499865
+
+Best value of frequency and phase:  41.541 2.47519
+Maximum Value at best f:  0.498245
+Mismatch:  0.003240875036259805
+
+
+True value of frequency and phase:  42.5 2.63894
+Maximum Value at true f:  0.499316
+
+Best value of frequency and phase:  42.542 2.53866
+Maximum Value at best f:  0.49751
+Mismatch:  0.003616947984843244
+
+
+True value of frequency and phase:  43.5 2.70177
+Maximum Value at true f:  0.500777
+
+Best value of frequency and phase:  43.543 2.53866
+Maximum Value at best f:  0.498853
+Mismatch:  0.003842029486178511
+
+
+True value of frequency and phase:  44.5 2.7646
+Maximum Value at true f:  0.49984
+
+Best value of frequency and phase:  44.544 2.60213
+Maximum Value at best f:  0.497953
+Mismatch:  0.0037752080665813814
+
+
+True value of frequency and phase:  45.5 2.82743
+Maximum Value at true f:  0.499674
+
+Best value of frequency and phase:  45.545 2.66559
+Maximum Value at best f:  0.497705
+Mismatch:  0.003940569251151715
+
+
+True value of frequency and phase:  46.5 2.89027
+Maximum Value at true f:  0.498963
+
+Best value of frequency and phase:  46.546 2.72906
+Maximum Value at best f:  0.496989
+Mismatch:  0.003956205169521554
+
+
+True value of frequency and phase:  47.5 2.9531
+Maximum Value at true f:  0.498115
+
+Best value of frequency and phase:  47.4469 3.10986
+Maximum Value at best f:  0.496149
+Mismatch:  0.003946879736606901
+
+
+True value of frequency and phase:  48.5 3.01593
+Maximum Value at true f:  0.500447
+
+Best value of frequency and phase:  48.4479 3.17333
+Maximum Value at best f:  0.4985
+Mismatch:  0.003890521873445074
+
+
+True value of frequency and phase:  49.5 3.07876
+Maximum Value at true f:  0.500723
+
+Best value of frequency and phase:  49.4489 3.23679
+Maximum Value at best f:  0.49885
+Mismatch:  0.0037405911052618146
+
+
+True value of frequency and phase:  50.5 3.14159
+Maximum Value at true f:  0.499101
+
+Best value of frequency and phase:  50.45 3.30026
+Maximum Value at best f:  0.497297
+Mismatch:  0.003614498868966476
+
+
+True value of frequency and phase:  51.5 3.20442
+Maximum Value at true f:  0.499061
+
+Best value of frequency and phase:  51.451 3.36373
+Maximum Value at best f:  0.497332
+Mismatch:  0.003464506342911955
+
+
+True value of frequency and phase:  52.5 3.26726
+Maximum Value at true f:  0.500027
+
+Best value of frequency and phase:  52.452 3.42719
+Maximum Value at best f:  0.498406
+Mismatch:  0.0032418249414530864
+
+
+True value of frequency and phase:  53.5 3.33009
+Maximum Value at true f:  0.50004
+
+Best value of frequency and phase:  53.453 3.49066
+Maximum Value at best f:  0.49835
+Mismatch:  0.0033797296216303563
+
+
+True value of frequency and phase:  54.5 3.39292
+Maximum Value at true f:  0.500333
+
+Best value of frequency and phase:  54.454 3.55413
+Maximum Value at best f:  0.498685
+Mismatch:  0.003293806324987658
+
+
+True value of frequency and phase:  55.5 3.45575
+Maximum Value at true f:  0.500358
+
+Best value of frequency and phase:  55.455 3.61759
+Maximum Value at best f:  0.498773
+Mismatch:  0.0031677319039566942
+
+
+True value of frequency and phase:  56.5 3.51858
+Maximum Value at true f:  0.499962
+
+Best value of frequency and phase:  56.456 3.68106
+Maximum Value at best f:  0.498377
+Mismatch:  0.0031702409383113084
+
+
+True value of frequency and phase:  57.5 3.58142
+Maximum Value at true f:  0.499389
+
+Best value of frequency and phase:  57.457 3.74452
+Maximum Value at best f:  0.497812
+Mismatch:  0.003157858903580224
+
+
+True value of frequency and phase:  58.5 3.64425
+Maximum Value at true f:  0.499983
+
+Best value of frequency and phase:  58.458 3.80799
+Maximum Value at best f:  0.498435
+Mismatch:  0.0030961052675790857
+
+
+True value of frequency and phase:  59.5 3.70708
+Maximum Value at true f:  0.499891
+
+Best value of frequency and phase:  59.459 3.80799
+Maximum Value at best f:  0.498299
+Mismatch:  0.0031846942633493303
+
+
+True value of frequency and phase:  60.5 3.76991
+Maximum Value at true f:  0.500455
+
+Best value of frequency and phase:  60.46 3.87146
+Maximum Value at best f:  0.499053
+Mismatch:  0.0028014506798812455
+
+
+True value of frequency and phase:  61.5 3.83274
+Maximum Value at true f:  0.499623
+
+Best value of frequency and phase:  61.461 3.93492
+Maximum Value at best f:  0.498377
+Mismatch:  0.002493880385810887
+
+
+True value of frequency and phase:  62.5 3.89557
+Maximum Value at true f:  0.500018
+
+Best value of frequency and phase:  62.462 3.99839
+Maximum Value at best f:  0.498854
+Mismatch:  0.0023279161950168215
+
+
+True value of frequency and phase:  63.5 3.95841
+Maximum Value at true f:  0.499984
+
+Best value of frequency and phase:  63.463 4.06186
+Maximum Value at best f:  0.498816
+Mismatch:  0.0023360747543921256
+
+
+True value of frequency and phase:  64.5 4.02124
+Maximum Value at true f:  0.49972
+
+Best value of frequency and phase:  64.464 4.12532
+Maximum Value at best f:  0.498589
+Mismatch:  0.0022632674297606847
+
+
+True value of frequency and phase:  65.5 4.08407
+Maximum Value at true f:  0.500411
+
+Best value of frequency and phase:  65.465 4.18879
+Maximum Value at best f:  0.499432
+Mismatch:  0.001956391845902794
+
+
+True value of frequency and phase:  66.5 4.1469
+Maximum Value at true f:  0.499261
+
+Best value of frequency and phase:  66.466 4.25226
+Maximum Value at best f:  0.498253
+Mismatch:  0.0020189840584383667
+
+
+True value of frequency and phase:  67.5 4.20973
+Maximum Value at true f:  0.499956
+
+Best value of frequency and phase:  67.467 4.31572
+Maximum Value at best f:  0.49901
+Mismatch:  0.0018921665106529373
+
+
+True value of frequency and phase:  68.5 4.27257
+Maximum Value at true f:  0.499685
+
+Best value of frequency and phase:  68.468 4.37919
+Maximum Value at best f:  0.498722
+Mismatch:  0.00192721414491126
+
+
+True value of frequency and phase:  69.5 4.3354
+Maximum Value at true f:  0.500538
+
+Best value of frequency and phase:  69.469 4.44266
+Maximum Value at best f:  0.499639
+Mismatch:  0.001796067431443893
+
+
+True value of frequency and phase:  70.5 4.39823
+Maximum Value at true f:  0.500817
+
+Best value of frequency and phase:  70.47 4.50612
+Maximum Value at best f:  0.499958
+Mismatch:  0.0017151973675013643
+
+
+True value of frequency and phase:  71.5 4.46106
+Maximum Value at true f:  0.499627
+
+Best value of frequency and phase:  71.471 4.56959
+Maximum Value at best f:  0.498729
+Mismatch:  0.001797340816248938
+
+
+True value of frequency and phase:  72.5 4.52389
+Maximum Value at true f:  0.501363
+
+Best value of frequency and phase:  72.472 4.63306
+Maximum Value at best f:  0.500457
+Mismatch:  0.0018070739165035876
+
+
+True value of frequency and phase:  73.5 4.58673
+Maximum Value at true f:  0.499978
+
+Best value of frequency and phase:  73.473 4.69652
+Maximum Value at best f:  0.49907
+Mismatch:  0.0018160799075158662
+
+
+True value of frequency and phase:  74.5 4.64956
+Maximum Value at true f:  0.500285
+
+Best value of frequency and phase:  74.474 4.75999
+Maximum Value at best f:  0.499448
+Mismatch:  0.0016730463635726833
+
+
+True value of frequency and phase:  75.5 4.71239
+Maximum Value at true f:  0.500417
+
+Best value of frequency and phase:  75.475 4.75999
+Maximum Value at best f:  0.499582
+Mismatch:  0.001668608380610559
+
+
+True value of frequency and phase:  76.5 4.77522
+Maximum Value at true f:  0.500866
+
+Best value of frequency and phase:  76.476 4.82346
+Maximum Value at best f:  0.500119
+Mismatch:  0.0014914168659881932
+
+
+True value of frequency and phase:  77.5 4.83805
+Maximum Value at true f:  0.499955
+
+Best value of frequency and phase:  77.477 4.88692
+Maximum Value at best f:  0.499301
+Mismatch:  0.0013081177305956926
+
+
+True value of frequency and phase:  78.5 4.90088
+Maximum Value at true f:  0.500075
+
+Best value of frequency and phase:  78.478 4.95039
+Maximum Value at best f:  0.499514
+Mismatch:  0.0011218317252412735
+
+
+True value of frequency and phase:  79.5 4.96372
+Maximum Value at true f:  0.500556
+
+Best value of frequency and phase:  79.479 5.01385
+Maximum Value at best f:  0.500066
+Mismatch:  0.0009789114504670238
+
+
+True value of frequency and phase:  80.5 5.02655
+Maximum Value at true f:  0.500232
+
+Best value of frequency and phase:  80.48 5.07732
+Maximum Value at best f:  0.4998
+Mismatch:  0.0008635992899294065
+
+
+True value of frequency and phase:  81.5 5.08938
+Maximum Value at true f:  0.499326
+
+Best value of frequency and phase:  81.481 5.14079
+Maximum Value at best f:  0.498976
+Mismatch:  0.0007009448736897683
+
+
+True value of frequency and phase:  82.5 5.15221
+Maximum Value at true f:  0.500463
+
+Best value of frequency and phase:  82.482 5.20425
+Maximum Value at best f:  0.500135
+Mismatch:  0.0006553931059838369
+
+
+True value of frequency and phase:  83.5 5.21504
+Maximum Value at true f:  0.499697
+
+Best value of frequency and phase:  83.483 5.26772
+Maximum Value at best f:  0.499419
+Mismatch:  0.0005563371403070061
+
+
+True value of frequency and phase:  84.5 5.27788
+Maximum Value at true f:  0.500236
+
+Best value of frequency and phase:  84.484 5.33119
+Maximum Value at best f:  0.499985
+Mismatch:  0.00050176316778483
+
+
+True value of frequency and phase:  85.5 5.34071
+Maximum Value at true f:  0.499112
+
+Best value of frequency and phase:  85.485 5.39465
+Maximum Value at best f:  0.498896
+Mismatch:  0.00043276859702834347
+
+
+True value of frequency and phase:  86.5 5.40354
+Maximum Value at true f:  0.499764
+
+Best value of frequency and phase:  86.486 5.45812
+Maximum Value at best f:  0.499557
+Mismatch:  0.0004141955002761044
+
+
+True value of frequency and phase:  87.5 5.46637
+Maximum Value at true f:  0.50002
+
+Best value of frequency and phase:  87.487 5.52159
+Maximum Value at best f:  0.499837
+Mismatch:  0.00036598536058563
+
+
+True value of frequency and phase:  88.5 5.5292
+Maximum Value at true f:  0.500121
+
+Best value of frequency and phase:  88.488 5.58505
+Maximum Value at best f:  0.499944
+Mismatch:  0.0003539143527266919
+
+
+True value of frequency and phase:  89.5 5.59203
+Maximum Value at true f:  0.500242
+
+Best value of frequency and phase:  89.489 5.64852
+Maximum Value at best f:  0.500036
+Mismatch:  0.00041180068846669027
+
+
+True value of frequency and phase:  90.5 5.65487
+Maximum Value at true f:  0.498786
+
+Best value of frequency and phase:  90.49 5.71199
+Maximum Value at best f:  0.498567
+Mismatch:  0.00043906605237520324
+
+
+True value of frequency and phase:  91.5 5.7177
+Maximum Value at true f:  0.500177
+
+Best value of frequency and phase:  91.491 5.77545
+Maximum Value at best f:  0.499891
+Mismatch:  0.0005717975836554423
+
+
+True value of frequency and phase:  92.5 5.78053
+Maximum Value at true f:  0.5008
+
+Best value of frequency and phase:  92.492 5.77545
+Maximum Value at best f:  0.500546
+Mismatch:  0.0005071884984024777
+
+
+True value of frequency and phase:  93.5 5.84336
+Maximum Value at true f:  0.500467
+
+Best value of frequency and phase:  93.493 5.83892
+Maximum Value at best f:  0.500282
+Mismatch:  0.00036965474247052654
+
+
+True value of frequency and phase:  94.5 5.90619
+Maximum Value at true f:  0.499855
+
+Best value of frequency and phase:  94.494 5.90239
+Maximum Value at best f:  0.4997
+Mismatch:  0.0003100899260786161
+
+
+True value of frequency and phase:  95.5 5.96903
+Maximum Value at true f:  0.499333
+
+Best value of frequency and phase:  95.495 5.96585
+Maximum Value at best f:  0.499241
+Mismatch:  0.0001842457838757694
+
+
+True value of frequency and phase:  96.5 6.03186
+Maximum Value at true f:  0.501003
+
+Best value of frequency and phase:  96.496 6.02932
+Maximum Value at best f:  0.500933
+Mismatch:  0.0001397197222372526
+
+
+True value of frequency and phase:  97.5 6.09469
+Maximum Value at true f:  0.499941
+
+Best value of frequency and phase:  97.497 6.09279
+Maximum Value at best f:  0.499917
+Mismatch:  4.800566466844902e-05
+
+
+True value of frequency and phase:  98.5 6.15752
+Maximum Value at true f:  0.500674
+
+Best value of frequency and phase:  98.498 6.15625
+Maximum Value at best f:  0.500659
+Mismatch:  2.9959614439745152e-05
+
+
+True value of frequency and phase:  99.5 6.22035
+Maximum Value at true f:  0.499605
+
+Best value of frequency and phase:  99.499 6.21972
+Maximum Value at best f:  0.499606
+Mismatch:  -2.001581249189144e-06
+
+
+True value of frequency and phase:  100.5 6.28319
+Maximum Value at true f:  0.500255
+
+Best value of frequency and phase:  100.5 0.0
+Maximum Value at best f:  0.500255
+Mismatch:  0.0
+
+
+
