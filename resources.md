@@ -2,7 +2,9 @@
 
 ## Quick links: 
 
-### Lab 1
+### Useful links
+
+# Introduction
 
 * [AEI website](https://www.aei.mpg.de/)
 * [AEI The Hunters YouTube Video](https://www.youtube.com/watch?v=vRXUpN7a-lU&t=698s&ab_channel=MaxPlanckInstituteforGravitationalPhysics)
@@ -24,7 +26,21 @@
 * [Neyman-Pearson Criterion](https://cnx.org/contents/aOvnYzjq@1.9:7yMVBb6e@2/The-Neyman-Pearson-Criterion)
 
 
-### Lab 2
+### Coding
 
 * [Making plots in jupyter](https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d)
 * [Template banks in gravitational wave searches](https://dcc.ligo.org/public/0007/P070111/000/P070111-00.pdf)
+* [Einstein Online](https://www.einstein-online.info/en/about-einstein-online/history-eo/)
+* [Timing your programm in python](https://stackoverflow.com/questions/5622976/how-do-you-calculate-program-run-time-in-python)
+* [Sleep function in python](https://realpython.com/python-sleep/)
+
+
+### Parallel programming
+* [Introduction to HPC](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial##Whatis) (High Performance Computing)
+* [Introduction to MPI and OpenMP](https://princetonuniversity.github.io/PUbootcamp/sessions/parallel-programming/Intro_PP_bootcamp_2018.pdf)
+* [Programming with CUDA: parallel reduction in GPUs](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
+* [Patterns for Parallel Programming](https://www.researchgate.net/publication/234826291_Patterns_for_Parallel_Programming)
+* [Ian Foster Book: Designing and building parallel programms](https://www.mcs.anl.gov/~itf/dbpp/text/book.html)
+* [Ian Foster Course](https://edoras.sdsu.edu/~mthomas/docs/foster/Foster_Designing_and_Building_Parallel_Programs.pdf)
+* [Online Course](https://open.hpi.de/courses/parprog2014)
+* [pymp OpenMP python lib](https://github.com/classner/pymp)

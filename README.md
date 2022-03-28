@@ -6,11 +6,12 @@ The purpose of this course is to provide an insight into the field of Data Analy
 
 [Resources](resources.md)
 
-1. [Lab 1 - 13.10.2021](#lab-1)
+1. [Lab 1 - 13.10.2021 - Setting up](#lab-1)
     1. [Prerequisites](#prerequisites)
     2. [Task 1](#task-1)
     3. [Task 2](#task-2)
-3. [Lab 2](#lab-2)
+3. [Exercises](#exercises)
+4. [Parallel Programming](#parallel-programming)
 
 
 ## Lab 1
@@ -138,6 +139,23 @@ you should get no errors and just a help message.
   
 * Have an IDE prepared, wheather it is [Jupyter](https://jupyter.org), [PyCharm](https://www.jetbrains.com/pycharm/), [Notebook++](https://notepad-plus-plus.org/downloads/), etc - the most important thing is you can easily work with it. Try to write a script that prints "Hello World!" and run it. 
   
- ## Lab 2,3,4
+## Exercises
   
-  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb)
+  Open [Exercise_1.pdf](https://github.com/alebot/datalab/blob/main/Exercise_1.pdf) read the theory and solve the tasks. Complete solutions [here](https://github.com/alebot/datalab/blob/main/Ex1_solution.ipynb). The same for [Exercise 3](https://github.com/alebot/datalab/blob/main/Exercise_3.pdf) and [Exercise 4](https://github.com/alebot/datalab/blob/main/Exercise_4.pdf) with [solutions](https://github.com/alebot/datalab/blob/main/Ex3_solutions.ipynb). The final assignment sheet and data are in the [assignment folder](https://github.com/alebot/datalab/tree/main/assignment) in this repo. 
+    
+## Parallel Programming 
+    
+Resources:
+* [Introduction to HPC](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial##Whatis) (High Performance Computing)
+* [Introduction to MPI and OpenMP](https://princetonuniversity.github.io/PUbootcamp/sessions/parallel-programming/Intro_PP_bootcamp_2018.pdf)
+* [Programming with CUDA: parallel reduction in GPUs](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
+* [Patterns for Parallel Programming](https://www.researchgate.net/publication/234826291_Patterns_for_Parallel_Programming)
+* [Ian Foster Book: Designing and building parallel programms](https://www.mcs.anl.gov/~itf/dbpp/text/book.html)
+* [Ian Foster Course](https://edoras.sdsu.edu/~mthomas/docs/foster/Foster_Designing_and_Building_Parallel_Programs.pdf)
+* [Online Course](https://open.hpi.de/courses/parprog2014)
+* [Python multiprocessing Tutorial](https://www.youtube.com/watch?v=fKl2JW_qrso&t=399s)
+* [pymp library](https://github.com/classner/pymp)
+* [Condor](http://www.umiacs.umd.edu/labs/parallel/condorintro.htm)
+* [Coding Game: Have fun with MPI](https://www.codingame.com/playgrounds/47058/have-fun-with-mpi-in-c/lets-start-to-have-fun-with-mpi)
+* [Video: Introduction to parallel programming with MPI](https://www.youtube.com/watch?v=36nCgG40DJo)
+* [mpi4py](https://mpi4py.readthedocs.io/en/stable/intro.html)
